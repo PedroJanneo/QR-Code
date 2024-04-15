@@ -1,7 +1,7 @@
 Olá gente, este é um projeto no qual realizei enquanto fazia um dos cursos sobre programação.
 
 ##  Tecnologias utilizadas:
--``HTML``
+- ``HTML``
 - ``CSS``
 - ``JavaScript``
 
